@@ -1,0 +1,1 @@
+# bazarii-store
